@@ -2,5 +2,5 @@
 Evaluación 3 de la asignatura de FrontEnd
 
 Integrantes:
-Jesús Rojas
+Jesús Rojas,
 Rodrigo Valenzuela
